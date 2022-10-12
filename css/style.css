@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(134, 134, 233);
+    height: 50px;
+}
+
+li {
+  list-style: none;
+  margin-right: 10px;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.header_items {
+    display: flex;
+    
+}
