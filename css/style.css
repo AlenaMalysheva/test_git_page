@@ -23,3 +23,8 @@ li {
     display: flex;
     
 }
+
+.item_menu {
+    background-color: blueviolet;
+    color: white;
+}
